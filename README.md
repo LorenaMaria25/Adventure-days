@@ -1,2 +1,2 @@
 # Adventure-days
-folder
+project
